@@ -18,7 +18,7 @@ export const MenuList = [
         url: "/testimonials"
     },
     {
-        title: "Try For Free",
+        title: "Try It",
         url: "/demo"
     }
 ];
